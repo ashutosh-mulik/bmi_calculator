@@ -1,0 +1,32 @@
+name: bmi_calculator
+description: Flutter BMI Calculator.
+
+version: 1.0.1
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.3.4
+  google_fonts: ^2.1.0
+  fluttertoast: ^8.0.7
+  flutter_html: ^2.1.1
+  url_launcher: ^6.0.9
+  share: ^2.0.4
+  flutter_native_splash: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/scale.png
+
+  uses-material-design: true
