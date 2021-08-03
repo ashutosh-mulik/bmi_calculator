@@ -2,6 +2,9 @@
 ### Flutter implementation of ui designed by Ruben Vaalt (dribbble)
 [Ruben Vaalt's Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 
+### Download from google play
+[Download APK](https://play.google.com/store/apps/details?id=com.twoab.bmi.bmi_calculator)
+
 # Screenshot's
 
 <p float="left">
