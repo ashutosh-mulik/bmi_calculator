@@ -1,4 +1,4 @@
-# BMI calculator
+# BMI calculator ![](https://img.shields.io/github/license/ashutosh-mulik/bmi_calculator?label=License&style=flat-square)
 ### Flutter implementation of ui designed by Ruben Vaalt (dribbble)
 [Ruben Vaalt's Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 
